@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: /assets/image/zhuye.jpg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
@@ -10,13 +10,13 @@ bgImageStyle:
 heroText: 鹤寻东方
 tagline: 一个以互联网为背景，以社群为基础，教育与科技相结合的综合性线上运营团队
 actions:
-  - text: How to Use
+  - text: 加入我们
     icon: lightbulb
-    link: ./demo/
+    link: ./join/
     type: primary
 
-  - text: Docs
-    link: ./guide/
+  - text: 关于我们
+    link: ./about/
 
 highlights:
   - header: Easy to install
